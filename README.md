@@ -16,3 +16,4 @@ Arduino scripts for running the Haptic Reference sensor. Along with Python scrip
 Python scripts for running the Kinova Gen3.
 
 # Plots
+PNG Plots of Force vs. Time for the experiments with Bota Wrist Sensor and the Kinova joint torque estimates
