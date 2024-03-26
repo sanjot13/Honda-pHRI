@@ -1,0 +1,24 @@
+# ninja log v5
+3965	4156	1709358583933119685	102-High_level_movement_03-twist_command	3ff00983fbb2a091
+3664	3876	1709358231892120754	000-Getting_started_01-api_creation	91b6e2a0ee27a8bd
+3847	4077	1710978188855947707	102-High_level_movement_01-record_tool_z_force	3a338875e3bb34a2
+3981	4186	1709358615345555290	102-High_level_movement_04-send_joint_speeds	a7449b538841f5f8
+3824	4025	1709358552276679311	102-High_level_movement_02-sequence	91108d194ad814b9
+0	3446	1710978188227937270	CMakeFiles/102-High_level_movement_01-record_tool_z_force.dir/102-High_level_movement/01-record_tool_z_force.cpp.o	72e41af36e9ba8d4
+3405	3637	1710802552369164719	102-High_level_movement_01-move_angular_and_cartesian	c0f9fb9e62e4b8e8
+3444	3693	1710881514765185398	108-Gen3_torque_control_01-torque_control_cyclic	c6cb8ef2096a5d8e
+0	3538	1709358551792672567	CMakeFiles/102-High_level_movement_02-sequence.dir/102-High_level_movement/02-sequence.cpp.o	7fe99d625a20598c
+3800	4038	1710978142031168780	102-High_level_movement_01-test	76c25d618b8e1d03
+0	3847	1710978188627943916	CMakeFiles/102-High_level_movement_01-record_tool_z_force.dir/utilities.cpp.o	a4fd1ae4fadce814
+0	3824	1709358552080676581	CMakeFiles/102-High_level_movement_02-sequence.dir/utilities.cpp.o	53d900fefc9dc053
+2	3444	1710881514521181078	CMakeFiles/108-Gen3_torque_control_01-torque_control_cyclic.dir/108-Gen3_torque_control/01-torque_control_cyclic.cpp.o	b70f47519c6dcdd4
+0	3637	1709682041871226345	CMakeFiles/108-Gen3_torque_control_01-torque_control_cyclic.dir/utilities.cpp.o	b2425fb713e7ded9
+1	3375	1710980823962237599	CMakeFiles/102-High_level_movement_01-record_tool_z_force.dir/102-High_level_movement/01-record_tool_z_force.cpp.o	d233e127a80bd77e
+2	3791	1710980824378242115	CMakeFiles/102-High_level_movement_01-record_tool_z_force.dir/utilities.cpp.o	5d3fe20208622571
+3791	4008	1710980824590244418	102-High_level_movement_01-record_tool_z_force	277984492d3df47c
+1	3404	1710980836490374331	CMakeFiles/102-High_level_movement_02-sequence.dir/102-High_level_movement/02-sequence.cpp.o	21580fa59d49f34d
+2	3898	1710980836986379775	CMakeFiles/102-High_level_movement_02-sequence.dir/utilities.cpp.o	9b0d2041a831086d
+3898	4125	1710980837206382192	102-High_level_movement_02-sequence	2e491b6da0d4b3cf
+1	3507	1710980862466662764	CMakeFiles/108-Gen3_torque_control_01-torque_control_cyclic.dir/108-Gen3_torque_control/01-torque_control_cyclic.cpp.o	6dd072bfd85d01c6
+1	3808	1710980862766666131	CMakeFiles/108-Gen3_torque_control_01-torque_control_cyclic.dir/utilities.cpp.o	d9f3d35d888fe616
+3808	4038	1710980862994668691	108-Gen3_torque_control_01-torque_control_cyclic	6e259ea2ce92555f
